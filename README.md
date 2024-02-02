@@ -1,4 +1,4 @@
-# RESTFul API with Laravel and MySQL
+# RESTFul API with Laravel and MySQL using Docker
 
 This project is a RESTFul API built with PHP using the Laravel framework and MySQL database. The API adheres to RESTful guidelines, incorporates elegant error handling and logging, and includes comprehensive unit tests. It is designed to be deployed effortlessly within a Docker container.
 
